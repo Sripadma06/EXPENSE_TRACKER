@@ -96,3 +96,6 @@ This project enhanced understanding of:
 ## Author
 
 Sripadma
+
+<img width="578" height="314" alt="Screenshot 2026-04-15 082555" src="https://github.com/user-attachments/assets/ae67f9d2-fd9f-42d9-bafd-6935fca7849c" />
+
